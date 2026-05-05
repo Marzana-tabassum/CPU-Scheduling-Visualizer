@@ -319,7 +319,9 @@ The GUI will launch. The ML model trains automatically in the background at star
 **Solution:** The full timeline is computed once upfront. Each frame schedules the next using `root.after()` — delegating timing entirely to Tkinter's event loop. Pause cancels the next scheduled frame; resume reschedules from the same step counter. The GUI stays fully responsive throughout.
 
 ---
+## 📄 Technical Report
 
+[![View Report](https://img.shields.io/badge/Technical%20Report-View%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Marzana-tabassum/CPU-Scheduling-Visualizer/blob/main/TechnicalReportv1.pdf)
 ## 📄 License
 
 This project was developed as an academic submission for **CSE323 — Operating Systems Lab**  
