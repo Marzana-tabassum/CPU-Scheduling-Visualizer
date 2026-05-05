@@ -39,6 +39,15 @@
 - [🏗️ Architecture](#️-architecture)
 - [🔬 Challenges & Solutions](#-challenges--solutions)
 - [📄 License](#-license)
+  ## 📸 Demo
+
+<div align="center">
+
+[![CPU Scheduling Visualizer Demo](https://img.youtube.com/vi/TKIO9v6sjeE/maxresdefault.jpg)](https://www.youtube.com/watch?v=TKIO9v6sjeE)
+
+*Click to watch the full demo on YouTube*
+
+</div>
 
 ---
 
