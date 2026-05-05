@@ -228,8 +228,24 @@ The GUI will launch. The ML model trains automatically in the background at star
 
 ## 📸 Screenshots
 
-> *The application features a professional dark-themed GUI with tabbed navigation across: Simulation, Prediction, Analytics, SMART-SJF details, Compare All, and OS Chatbot.*
 
+<div align="center">
+
+<img width="800" alt="CPU Scheduling Visualizer" src="https://github.com/user-attachments/assets/fa609897-abea-4637-9953-e3a0ce95cecb" />
+
+<br/><br/>
+
+<img width="800" alt="Gantt Chart & Metrics" src="https://github.com/user-attachments/assets/76444f3b-9a14-486c-af5c-e5cf53fc2db0" />
+
+<br/><br/>
+
+<img width="800" alt="ML Prediction Engine" src="https://github.com/user-attachments/assets/bfa7d49e-e441-405b-ab42-1a5dc1baf494" />
+
+<br/><br/>
+
+<img width="800" alt="Analytics Dashboard" src="https://github.com/user-attachments/assets/f1c90ed8-f328-4fa3-a4f7-27bda22c5310" />
+
+</div>
 ---
 
 ## 🏗️ Architecture
