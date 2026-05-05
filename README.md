@@ -27,6 +27,7 @@
 
 ## 📌 Table of Contents
 
+- [📸 Demo](#-demo)
 - [✨ Overview](#-overview)
 - [🚀 Features](#-features)
 - [🧠 Algorithms](#-algorithms)
