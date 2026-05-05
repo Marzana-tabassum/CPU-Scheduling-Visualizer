@@ -40,10 +40,10 @@
 - [🏗️ Architecture](#️-architecture)
 - [🔬 Challenges & Solutions](#-challenges--solutions)
 - [📄 License](#-license)
--   ## 📄 Technical Report
+- ## 📄 Technical Report
 
-[View Full Report (PDF)](report/TechnicalReportv1.pdf)
-
+[![View Report](https://img.shields.io/badge/Technical%20Report-View%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Marzana-tabassum/CPU-Scheduling-Visualizer/blob/main/TechnicalReportv1.pdf)
+   
 <div align="center">
   
 ## 📸 Demo
