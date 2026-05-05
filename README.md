@@ -41,6 +41,9 @@
 - [🔬 Challenges & Solutions](#-challenges--solutions)
 - [📄 License](#-license)
   ## 📸 Demo
+  ## 📄 Technical Report
+
+[View Full Report (PDF)](report/TechnicalReportv1.pdf)
 
 <div align="center">
 
